@@ -1,15 +1,21 @@
-# Practice resume
+## Joseph Legarde 
 
-> JOB qualifications
+Looking for work in any type of job just need to get out there and work againg 
 
-1. on time 
-2. listens well
-3. allways hard working 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Qualifications 
 
 
-> hobbies 
- - games
- - chilling 
- - helping people 
+- punctual
+- great worker 
+- skills apon skills
 
- 
+
+
+
+1. Numbered
+2. List
+ ## Work expierence 
+**Bold** 
+worked for electrip ower for 10 yeares then injured my self and been on wcb ever since
